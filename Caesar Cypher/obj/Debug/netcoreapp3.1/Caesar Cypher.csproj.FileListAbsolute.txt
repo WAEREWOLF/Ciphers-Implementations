@@ -1,0 +1,13 @@
+C:\Users\ANGHEL PAUL\source\repos\Caesar Cypher\Caesar Cypher\bin\Debug\netcoreapp3.1\Caesar Cypher.exe
+C:\Users\ANGHEL PAUL\source\repos\Caesar Cypher\Caesar Cypher\bin\Debug\netcoreapp3.1\Caesar Cypher.deps.json
+C:\Users\ANGHEL PAUL\source\repos\Caesar Cypher\Caesar Cypher\bin\Debug\netcoreapp3.1\Caesar Cypher.runtimeconfig.json
+C:\Users\ANGHEL PAUL\source\repos\Caesar Cypher\Caesar Cypher\bin\Debug\netcoreapp3.1\Caesar Cypher.runtimeconfig.dev.json
+C:\Users\ANGHEL PAUL\source\repos\Caesar Cypher\Caesar Cypher\bin\Debug\netcoreapp3.1\Caesar Cypher.dll
+C:\Users\ANGHEL PAUL\source\repos\Caesar Cypher\Caesar Cypher\bin\Debug\netcoreapp3.1\Caesar Cypher.pdb
+C:\Users\ANGHEL PAUL\source\repos\Caesar Cypher\Caesar Cypher\obj\Debug\netcoreapp3.1\Caesar Cypher.csproj.CoreCompileInputs.cache
+C:\Users\ANGHEL PAUL\source\repos\Caesar Cypher\Caesar Cypher\obj\Debug\netcoreapp3.1\Caesar Cypher.AssemblyInfoInputs.cache
+C:\Users\ANGHEL PAUL\source\repos\Caesar Cypher\Caesar Cypher\obj\Debug\netcoreapp3.1\Caesar Cypher.AssemblyInfo.cs
+C:\Users\ANGHEL PAUL\source\repos\Caesar Cypher\Caesar Cypher\obj\Debug\netcoreapp3.1\Caesar Cypher.dll
+C:\Users\ANGHEL PAUL\source\repos\Caesar Cypher\Caesar Cypher\obj\Debug\netcoreapp3.1\Caesar Cypher.pdb
+C:\Users\ANGHEL PAUL\source\repos\Caesar Cypher\Caesar Cypher\obj\Debug\netcoreapp3.1\Caesar Cypher.genruntimeconfig.cache
+C:\Users\ANGHEL PAUL\source\repos\Caesar Cypher\Caesar Cypher\obj\Debug\netcoreapp3.1\Caesar Cypher.csprojAssemblyReference.cache
