@@ -1,0 +1,13 @@
+C:\Users\ANGHEL PAUL\source\repos\Playfair Cipher\Playfair Cipher\bin\Debug\netcoreapp3.1\Playfair Cipher.exe
+C:\Users\ANGHEL PAUL\source\repos\Playfair Cipher\Playfair Cipher\bin\Debug\netcoreapp3.1\Playfair Cipher.deps.json
+C:\Users\ANGHEL PAUL\source\repos\Playfair Cipher\Playfair Cipher\bin\Debug\netcoreapp3.1\Playfair Cipher.runtimeconfig.json
+C:\Users\ANGHEL PAUL\source\repos\Playfair Cipher\Playfair Cipher\bin\Debug\netcoreapp3.1\Playfair Cipher.runtimeconfig.dev.json
+C:\Users\ANGHEL PAUL\source\repos\Playfair Cipher\Playfair Cipher\bin\Debug\netcoreapp3.1\Playfair Cipher.dll
+C:\Users\ANGHEL PAUL\source\repos\Playfair Cipher\Playfair Cipher\bin\Debug\netcoreapp3.1\Playfair Cipher.pdb
+C:\Users\ANGHEL PAUL\source\repos\Playfair Cipher\Playfair Cipher\obj\Debug\netcoreapp3.1\Playfair Cipher.csproj.CoreCompileInputs.cache
+C:\Users\ANGHEL PAUL\source\repos\Playfair Cipher\Playfair Cipher\obj\Debug\netcoreapp3.1\Playfair Cipher.AssemblyInfoInputs.cache
+C:\Users\ANGHEL PAUL\source\repos\Playfair Cipher\Playfair Cipher\obj\Debug\netcoreapp3.1\Playfair Cipher.AssemblyInfo.cs
+C:\Users\ANGHEL PAUL\source\repos\Playfair Cipher\Playfair Cipher\obj\Debug\netcoreapp3.1\Playfair Cipher.dll
+C:\Users\ANGHEL PAUL\source\repos\Playfair Cipher\Playfair Cipher\obj\Debug\netcoreapp3.1\Playfair Cipher.pdb
+C:\Users\ANGHEL PAUL\source\repos\Playfair Cipher\Playfair Cipher\obj\Debug\netcoreapp3.1\Playfair Cipher.genruntimeconfig.cache
+C:\Users\ANGHEL PAUL\source\repos\Playfair Cipher\Playfair Cipher\obj\Debug\netcoreapp3.1\Playfair Cipher.csprojAssemblyReference.cache
