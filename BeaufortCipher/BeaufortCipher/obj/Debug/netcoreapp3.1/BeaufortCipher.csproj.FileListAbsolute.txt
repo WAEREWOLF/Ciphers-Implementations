@@ -1,0 +1,13 @@
+C:\Users\ANGHEL PAUL\source\repos\BeaufortCipher\BeaufortCipher\obj\Debug\netcoreapp3.1\BeaufortCipher.csprojAssemblyReference.cache
+C:\Users\ANGHEL PAUL\source\repos\BeaufortCipher\BeaufortCipher\obj\Debug\netcoreapp3.1\BeaufortCipher.csproj.CoreCompileInputs.cache
+C:\Users\ANGHEL PAUL\source\repos\BeaufortCipher\BeaufortCipher\obj\Debug\netcoreapp3.1\BeaufortCipher.AssemblyInfoInputs.cache
+C:\Users\ANGHEL PAUL\source\repos\BeaufortCipher\BeaufortCipher\obj\Debug\netcoreapp3.1\BeaufortCipher.AssemblyInfo.cs
+C:\Users\ANGHEL PAUL\source\repos\BeaufortCipher\BeaufortCipher\bin\Debug\netcoreapp3.1\BeaufortCipher.exe
+C:\Users\ANGHEL PAUL\source\repos\BeaufortCipher\BeaufortCipher\bin\Debug\netcoreapp3.1\BeaufortCipher.deps.json
+C:\Users\ANGHEL PAUL\source\repos\BeaufortCipher\BeaufortCipher\bin\Debug\netcoreapp3.1\BeaufortCipher.runtimeconfig.json
+C:\Users\ANGHEL PAUL\source\repos\BeaufortCipher\BeaufortCipher\bin\Debug\netcoreapp3.1\BeaufortCipher.runtimeconfig.dev.json
+C:\Users\ANGHEL PAUL\source\repos\BeaufortCipher\BeaufortCipher\bin\Debug\netcoreapp3.1\BeaufortCipher.dll
+C:\Users\ANGHEL PAUL\source\repos\BeaufortCipher\BeaufortCipher\bin\Debug\netcoreapp3.1\BeaufortCipher.pdb
+C:\Users\ANGHEL PAUL\source\repos\BeaufortCipher\BeaufortCipher\obj\Debug\netcoreapp3.1\BeaufortCipher.dll
+C:\Users\ANGHEL PAUL\source\repos\BeaufortCipher\BeaufortCipher\obj\Debug\netcoreapp3.1\BeaufortCipher.pdb
+C:\Users\ANGHEL PAUL\source\repos\BeaufortCipher\BeaufortCipher\obj\Debug\netcoreapp3.1\BeaufortCipher.genruntimeconfig.cache
