@@ -1,0 +1,13 @@
+C:\Users\ANGHEL PAUL\source\repos\AutoKeyCipher\AutoKeyCipher\obj\Debug\netcoreapp3.1\AutoKeyCipher.csprojAssemblyReference.cache
+C:\Users\ANGHEL PAUL\source\repos\AutoKeyCipher\AutoKeyCipher\obj\Debug\netcoreapp3.1\AutoKeyCipher.csproj.CoreCompileInputs.cache
+C:\Users\ANGHEL PAUL\source\repos\AutoKeyCipher\AutoKeyCipher\obj\Debug\netcoreapp3.1\AutoKeyCipher.AssemblyInfoInputs.cache
+C:\Users\ANGHEL PAUL\source\repos\AutoKeyCipher\AutoKeyCipher\obj\Debug\netcoreapp3.1\AutoKeyCipher.AssemblyInfo.cs
+C:\Users\ANGHEL PAUL\source\repos\AutoKeyCipher\AutoKeyCipher\bin\Debug\netcoreapp3.1\AutoKeyCipher.exe
+C:\Users\ANGHEL PAUL\source\repos\AutoKeyCipher\AutoKeyCipher\bin\Debug\netcoreapp3.1\AutoKeyCipher.deps.json
+C:\Users\ANGHEL PAUL\source\repos\AutoKeyCipher\AutoKeyCipher\bin\Debug\netcoreapp3.1\AutoKeyCipher.runtimeconfig.json
+C:\Users\ANGHEL PAUL\source\repos\AutoKeyCipher\AutoKeyCipher\bin\Debug\netcoreapp3.1\AutoKeyCipher.runtimeconfig.dev.json
+C:\Users\ANGHEL PAUL\source\repos\AutoKeyCipher\AutoKeyCipher\bin\Debug\netcoreapp3.1\AutoKeyCipher.dll
+C:\Users\ANGHEL PAUL\source\repos\AutoKeyCipher\AutoKeyCipher\bin\Debug\netcoreapp3.1\AutoKeyCipher.pdb
+C:\Users\ANGHEL PAUL\source\repos\AutoKeyCipher\AutoKeyCipher\obj\Debug\netcoreapp3.1\AutoKeyCipher.dll
+C:\Users\ANGHEL PAUL\source\repos\AutoKeyCipher\AutoKeyCipher\obj\Debug\netcoreapp3.1\AutoKeyCipher.pdb
+C:\Users\ANGHEL PAUL\source\repos\AutoKeyCipher\AutoKeyCipher\obj\Debug\netcoreapp3.1\AutoKeyCipher.genruntimeconfig.cache
