@@ -1,0 +1,13 @@
+C:\Users\ANGHEL PAUL\source\repos\FourSquare\FourSquare\obj\Debug\netcoreapp3.1\FourSquare.csprojAssemblyReference.cache
+C:\Users\ANGHEL PAUL\source\repos\FourSquare\FourSquare\obj\Debug\netcoreapp3.1\FourSquare.csproj.CoreCompileInputs.cache
+C:\Users\ANGHEL PAUL\source\repos\FourSquare\FourSquare\obj\Debug\netcoreapp3.1\FourSquare.AssemblyInfoInputs.cache
+C:\Users\ANGHEL PAUL\source\repos\FourSquare\FourSquare\obj\Debug\netcoreapp3.1\FourSquare.AssemblyInfo.cs
+C:\Users\ANGHEL PAUL\source\repos\FourSquare\FourSquare\bin\Debug\netcoreapp3.1\FourSquare.exe
+C:\Users\ANGHEL PAUL\source\repos\FourSquare\FourSquare\bin\Debug\netcoreapp3.1\FourSquare.deps.json
+C:\Users\ANGHEL PAUL\source\repos\FourSquare\FourSquare\bin\Debug\netcoreapp3.1\FourSquare.runtimeconfig.json
+C:\Users\ANGHEL PAUL\source\repos\FourSquare\FourSquare\bin\Debug\netcoreapp3.1\FourSquare.runtimeconfig.dev.json
+C:\Users\ANGHEL PAUL\source\repos\FourSquare\FourSquare\bin\Debug\netcoreapp3.1\FourSquare.dll
+C:\Users\ANGHEL PAUL\source\repos\FourSquare\FourSquare\bin\Debug\netcoreapp3.1\FourSquare.pdb
+C:\Users\ANGHEL PAUL\source\repos\FourSquare\FourSquare\obj\Debug\netcoreapp3.1\FourSquare.dll
+C:\Users\ANGHEL PAUL\source\repos\FourSquare\FourSquare\obj\Debug\netcoreapp3.1\FourSquare.pdb
+C:\Users\ANGHEL PAUL\source\repos\FourSquare\FourSquare\obj\Debug\netcoreapp3.1\FourSquare.genruntimeconfig.cache
