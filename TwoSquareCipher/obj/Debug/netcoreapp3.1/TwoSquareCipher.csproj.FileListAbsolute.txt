@@ -1,0 +1,13 @@
+C:\Users\ANGHEL PAUL\source\repos\TwoSquareCipher\TwoSquareCipher\bin\Debug\netcoreapp3.1\TwoSquareCipher.exe
+C:\Users\ANGHEL PAUL\source\repos\TwoSquareCipher\TwoSquareCipher\bin\Debug\netcoreapp3.1\TwoSquareCipher.deps.json
+C:\Users\ANGHEL PAUL\source\repos\TwoSquareCipher\TwoSquareCipher\bin\Debug\netcoreapp3.1\TwoSquareCipher.runtimeconfig.json
+C:\Users\ANGHEL PAUL\source\repos\TwoSquareCipher\TwoSquareCipher\bin\Debug\netcoreapp3.1\TwoSquareCipher.runtimeconfig.dev.json
+C:\Users\ANGHEL PAUL\source\repos\TwoSquareCipher\TwoSquareCipher\bin\Debug\netcoreapp3.1\TwoSquareCipher.dll
+C:\Users\ANGHEL PAUL\source\repos\TwoSquareCipher\TwoSquareCipher\bin\Debug\netcoreapp3.1\TwoSquareCipher.pdb
+C:\Users\ANGHEL PAUL\source\repos\TwoSquareCipher\TwoSquareCipher\obj\Debug\netcoreapp3.1\TwoSquareCipher.csproj.CoreCompileInputs.cache
+C:\Users\ANGHEL PAUL\source\repos\TwoSquareCipher\TwoSquareCipher\obj\Debug\netcoreapp3.1\TwoSquareCipher.AssemblyInfoInputs.cache
+C:\Users\ANGHEL PAUL\source\repos\TwoSquareCipher\TwoSquareCipher\obj\Debug\netcoreapp3.1\TwoSquareCipher.AssemblyInfo.cs
+C:\Users\ANGHEL PAUL\source\repos\TwoSquareCipher\TwoSquareCipher\obj\Debug\netcoreapp3.1\TwoSquareCipher.dll
+C:\Users\ANGHEL PAUL\source\repos\TwoSquareCipher\TwoSquareCipher\obj\Debug\netcoreapp3.1\TwoSquareCipher.pdb
+C:\Users\ANGHEL PAUL\source\repos\TwoSquareCipher\TwoSquareCipher\obj\Debug\netcoreapp3.1\TwoSquareCipher.genruntimeconfig.cache
+C:\Users\ANGHEL PAUL\source\repos\TwoSquareCipher\TwoSquareCipher\obj\Debug\netcoreapp3.1\TwoSquareCipher.csprojAssemblyReference.cache
